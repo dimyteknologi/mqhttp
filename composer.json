@@ -1,0 +1,17 @@
+{
+    "name": "qoligo/mqhttp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Qoligo",
+        }
+    ],
+     "autoload": {
+        "psr-4": {
+            "Qoligo\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
